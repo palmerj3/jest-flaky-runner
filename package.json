@@ -1,0 +1,11 @@
+{
+  "name": "jest-flaky-runner",
+  "version": "1.0.0",
+  "description": "Detects flaky tests and skips them",
+  "main": "index.js",
+  "author": "Jason Palmer",
+  "license": "MIT",
+  "dependencies": {
+    "jest-circus": "^24.9.0"
+  }
+}
